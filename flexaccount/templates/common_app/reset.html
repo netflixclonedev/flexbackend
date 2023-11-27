@@ -1,0 +1,61 @@
+{% load static %}
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+
+    <link rel="stylesheet" href="{% static 'resetindex.css' %}" />
+    <link rel="stylesheet" href="{% static 'resetglobal.css' %}" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap"
+    />
+  </head>
+  <body>
+    <div class="password-reset">
+      <img class="password-reset-child" alt="" src="Rectangle 13.png" />
+
+      <img class="password-reset-item" alt="" src="Rectangle 13.svg" />
+
+      <div class="password-reset-inner">
+        <div class="vector-parent">
+          <img class="vector-parent" alt="" src="Rectangle 23.svg" />
+
+          <div class="confirm-password">Confirm Password</div>
+          <div class="group-item"></div>
+          <div class="passwords-must-match-container">
+            <span class="passwords">Passwords </span>
+            <span class="passwords">m</span>
+            <span class="passwords">ust match </span>
+          </div>
+          <div class="new-password">New Password</div>
+          <div class="group-inner"></div>
+          <div class="at-least-6">At least 6 characters</div>
+          <b class="password-reset1">Password Reset</b>
+          <img
+            class="rectangle-icon"
+            alt=""
+            src="Rectangle 25.svg"
+            id="rectangle4"
+          />
+
+          <b class="reset">Reset</b>
+          <img class="image-8-icon" alt="" src="image 8.png" />
+
+          <div class="remember-me">Remember me</div>
+        </div>
+      </div>
+      <img class="clapperboard-1-icon" alt="" src="clapperboard 1.png" />
+    </div>
+
+    <script>
+      var rectangle4 = document.getElementById("rectangle4");
+      if (rectangle4) {
+        rectangle4.addEventListener("click", function (e) {
+          // Add your code here
+        });
+      }
+    </script>
+  </body>
+</html>

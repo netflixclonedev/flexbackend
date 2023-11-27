@@ -1,0 +1,272 @@
+.create-account-child {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 1440px;
+    height: 1024px;
+    object-fit: cover;
+}
+.create-account-item {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 1440px;
+    height: 1024px;
+}
+.group-child {
+    position: absolute;
+    top: calc(50% - 382.5px);
+    left: calc(50% - 462.5px);
+    width: 925px;
+    height: 765px;
+}
+.create-account1 {
+    position: absolute;
+    top: calc(50% - 308.69px);
+    left: calc(50% - 189.5px);
+    font-weight: 500;
+    display: inline-block;
+    width: 379px;
+    height: 49px;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.or {
+    margin: 0;
+    line-height: 134.52%;
+}
+.span {
+    font-size: 28px;
+}
+.continue-with1 {
+    font-size: 27px;
+}
+.continue-with {
+    margin: 0;
+}
+.or-continue-with-container {
+    position: absolute;
+    top: calc(50% + 175.31px);
+    left: calc(50% - 90.5px);
+    color: var(--color-white);
+    white-space: pre-wrap;
+    display: inline-block;
+    width: 192px;
+    height: 62px;
+    text-shadow: 0px 4px 5px rgba(0, 0, 0, 0.25);
+    font-size: var(--font-size-6xl);
+}
+.flat-color-iconsgoogle {
+    position: relative;
+    width: 24px;
+    height: 24px;
+    overflow: hidden;
+    flex-shrink: 0;
+}
+.google-icon {
+    position: absolute;
+    top: calc(50% - 26.19px);
+    left: calc(50% - 99.77px);
+    border-radius: var(--br-49xl);
+    background-color: var(--color-white);
+    width: 53.53px;
+    height: 52.39px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: var(--padding-11xs) var(--padding-8xs);
+    box-sizing: border-box;
+}
+.vector-icon {
+    position: relative;
+    width: 24px;
+    height: 24px;
+}
+.facebook-icon {
+    position: absolute;
+    top: calc(50% - 26.19px);
+    left: calc(50% - 26.77px);
+    border-radius: var(--br-49xl);
+    background-color: var(--color-white);
+    width: 53.53px;
+    height: 52.39px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: var(--padding-11xs) var(--padding-8xs);
+    box-sizing: border-box;
+}
+.twitter-2-2 {
+    position: absolute;
+    top: 16px;
+    left: 17px;
+    width: 21px;
+    height: 21px;
+    object-fit: cover;
+}
+.twitter-2-2-wrapper {
+    position: absolute;
+    top: calc(50% - 26.19px);
+    left: calc(50% + 46.23px);
+    border-radius: var(--br-49xl);
+    background-color: var(--color-white);
+    width: 53.53px;
+    height: 52.39px;
+    overflow: hidden;
+}
+.google-icon-parent {
+    position: absolute;
+    top: calc(50% - 26.19px);
+    left: calc(50% - 99.77px);
+    width: 199.53px;
+    height: 52.39px;
+}
+.group-wrapper {
+    position: absolute;
+    top: calc(50% + 256.31px);
+    left: calc(50% - 90.5px);
+    width: 199.53px;
+    height: 52.39px;
+}
+.create-account-parent {
+    position: absolute;
+    top: calc(50% - 340.5px);
+    left: calc(50% - 189.5px);
+    width: 379px;
+    height: 617.39px;
+}
+.group-item {
+    position: absolute;
+    top: calc(50% - 87px);
+    left: calc(50% - 378px);
+    width: 755px;
+    height: 67px;
+}
+.group-inner {
+    position: absolute;
+    top: calc(50% + 10px);
+    left: calc(50% - 377px);
+    width: 755px;
+    height: 67px;
+}
+.enter-username {
+    position: absolute;
+    top: calc(50% - 163px);
+    left: calc(50% - 351px);
+    font-weight: 500;
+    color: #a0a0a0;
+    display: inline-block;
+    width: 157px;
+    height: 18px;
+}
+.rectangle-icon {
+    position: absolute;
+    top: calc(50% - 183px);
+    left: calc(50% - 377px);
+    width: 755px;
+    height: 65px;
+}
+.enter-your-email {
+    position: absolute;
+    top: calc(50% - 67px);
+    left: calc(50% - 356px);
+    text-align: center;
+    display: inline-block;
+    width: 155px;
+    height: 19px;
+}
+.create-password {
+    position: absolute;
+    top: calc(50% + 31px);
+    left: calc(50% - 356px);
+    display: inline-block;
+    width: 195px;
+    height: 19px;
+}
+.rectangle-div {
+    position: absolute;
+    top: 291px;
+    left: calc(50% - 378px);
+    background-color: var(--color-royalblue);
+    width: 755px;
+    height: 75px;
+    cursor: pointer;
+}
+.streamflex-account {
+    font-weight: 600;
+}
+.create-your-streamflex-container {
+    position: absolute;
+    top: 315px;
+    left: calc(50% - 197px);
+    font-size: var(--font-size-6xl);
+    color: var(--color-white);
+    text-align: center;
+    display: inline-block;
+    width: 394px;
+    height: 27px;
+}
+.group-frame {
+    position: absolute;
+    top: calc(50% - 183px);
+    left: calc(50% - 378px);
+    width: 756px;
+    height: 366px;
+}
+.group-container {
+    position: absolute;
+    top: calc(50% - 241.5px);
+    left: calc(50% - 378.5px);
+    width: 756px;
+    height: 366px;
+    cursor: pointer;
+    text-align: left;
+    font-size: var(--font-size-xl);
+    color: var(--color-gray);
+}
+.conditions-of-use {
+    color: var(--color-royalblue);
+}
+.and {
+    color: var(--color-black);
+}
+.by-creating-an-container {
+    position: absolute;
+    top: 681px;
+    left: calc(50% - 303.5px);
+    font-size: 21px;
+    letter-spacing: 0.07em;
+    font-weight: 600;
+    display: inline-block;
+    width: 612px;
+    height: 45px;
+}
+.vector-parent {
+    position: absolute;
+    top: calc(50% - 339px);
+    left: calc(50% - 463px);
+    width: 925px;
+    height: 765px;
+}
+.clapperboard-1-icon {
+    position: absolute;
+    top: 25px;
+    left: calc(50% - 57px);
+    width: 113.49px;
+    height: 110.02px;
+    object-fit: cover;
+}
+.create-account {
+    position: relative;
+    background-color: var(--color-white);
+    width: 100%;
+    height: 1024px;
+    overflow: hidden;
+    text-align: center;
+    font-size: 50px;
+    color: var(--color-black);
+    font-family: var(--font-inter);
+}

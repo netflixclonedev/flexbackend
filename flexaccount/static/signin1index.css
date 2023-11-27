@@ -1,0 +1,190 @@
+.sign-in-page-1-child {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 1440px;
+    height: 1024px;
+    object-fit: cover;
+}
+.sign-in-page-1-item {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 1440px;
+    height: 1024px;
+}
+.group-child {
+    position: absolute;
+    top: calc(50% - 382.5px);
+    left: calc(50% - 462.5px);
+    width: 925px;
+    height: 765px;
+}
+.sign-in {
+    position: absolute;
+    top: calc(50% - 340.5px);
+    left: calc(50% - 189.5px);
+    font-size: 50px;
+    font-weight: 600;
+    display: inline-block;
+    width: 379px;
+    height: 49px;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.group-item {
+    position: absolute;
+    top: calc(50% - 124.5px);
+    left: calc(50% - 377px);
+    width: 755px;
+    height: 67px;
+}
+.enter-username {
+    position: absolute;
+    top: calc(50% - 200.5px);
+    left: calc(50% - 350px);
+    font-weight: 500;
+    color: #a0a0a0;
+    text-align: left;
+    display: inline-block;
+    width: 157px;
+    height: 18px;
+}
+.group-inner {
+    position: absolute;
+    top: calc(50% - 220.5px);
+    left: calc(50% - 376px);
+    width: 755px;
+    height: 65px;
+}
+.enter-password {
+    position: absolute;
+    top: calc(50% - 104.5px);
+    left: calc(50% - 355px);
+    color: rgba(255, 255, 255, 0.4);
+    display: inline-block;
+    width: 155px;
+    height: 19px;
+}
+.rectangle-icon {
+    position: absolute;
+    top: 407.5px;
+    left: calc(50% - 378.5px);
+    width: 755px;
+    height: 75px;
+    cursor: pointer;
+}
+.continue {
+    position: absolute;
+    top: 430px;
+    left: calc(50% - 376px);
+    font-size: 27px;
+    display: inline-block;
+    color: var(--color-white);
+    width: 753px;
+    height: 37px;
+}
+.new-to-streamflex {
+    position: absolute;
+    top: calc(50% + 172.5px);
+    left: calc(50% - 411.5px);
+    font-size: 32px;
+    font-weight: 600;
+    color: rgba(0, 0, 0, 0.78);
+    display: inline-block;
+    width: 827.06px;
+    height: 109.98px;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 5px rgba(0, 0, 0, 0.25);
+}
+.group-child1 {
+    position: absolute;
+    top: 633px;
+    left: calc(50% - 245.5px);
+    width: 495.26px;
+    height: 63.33px;
+}
+.create-your-streamflex {
+    position: absolute;
+    top: 650px;
+    left: calc(50% - 224.5px);
+    font-size: 25px;
+    font-weight: 600;
+    display: inline-block;
+    width: 452px;
+    height: 92px;
+}
+.forget-password {
+    position: absolute;
+    top: 336px;
+    left: 526px;
+    font-size: 26px;
+    font-weight: 600;
+    color: #0075f4;
+    display: inline-block;
+    width: 368.02px;
+    height: 39.41px;
+}
+.line-icon {
+    position: absolute;
+    top: 573px;
+    left: 81px;
+    width: 213.5px;
+    height: 6px;
+}
+.group-child2 {
+    position: absolute;
+    top: 574.9px;
+    left: 633px;
+    width: 209.16px;
+    height: 6.2px;
+}
+.vector-parent {
+    position: absolute;
+    top: calc(50% - 334px);
+    left: calc(50% - 462px);
+    width: 925px;
+    height: 765px;
+}
+.image-8-icon {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 24px;
+    height: 24px;
+    object-fit: cover;
+}
+.remember-me {
+    position: absolute;
+    top: 0px;
+    left: 12px;
+    letter-spacing: 0.03em;
+    font-weight: 600;
+    display: inline-block;
+    width: 185px;
+    height: 20px;
+}
+.image-8-parent {
+    position: absolute;
+    top: 510px;
+    left: 348px;
+    width: 197px;
+    height: 24px;
+}
+.clapperboard-1-icon {
+    position: absolute;
+    top: 20px;
+    left: calc(50% - 57px);
+    width: 113.49px;
+    height: 110.02px;
+    object-fit: cover;
+}
+.sign-in-page-1 {
+    position: relative;
+    background-color: var(--color-white);
+    width: 100%;
+    height: 1024px;
+    overflow: hidden;
+    text-align: center;
+    font-size: var(--font-size-xl);
+    color: var(--color-black);
+    font-family: var(--font-inter);
+}

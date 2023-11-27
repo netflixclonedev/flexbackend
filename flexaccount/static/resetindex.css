@@ -1,0 +1,158 @@
+.password-reset-child {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 1440px;
+    height: 1024px;
+    object-fit: cover;
+}
+.password-reset-item {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 1440px;
+    height: 1024px;
+}
+.confirm-password {
+    position: absolute;
+    top: 342px;
+    left: 83px;
+    font-weight: 600;
+    display: inline-block;
+    width: 359px;
+    height: 42px;
+}
+.group-item {
+    position: absolute;
+    top: 384px;
+    left: 118px;
+    background-color: rgba(166, 164, 160, 0);
+    border: 2px solid var(--color-black);
+    box-sizing: border-box;
+    width: 692px;
+    height: 89px;
+}
+.passwords {
+    letter-spacing: -0.02em;
+}
+.passwords-must-match-container {
+    position: absolute;
+    top: 414px;
+    left: 30px;
+    font-size: var(--font-size-9xl);
+    color: var(--color-darkgray-100);
+    display: inline-block;
+    width: 529.52px;
+    height: 29px;
+}
+.new-password {
+    position: absolute;
+    top: 161px;
+    left: 55px;
+    font-weight: 600;
+    display: inline-block;
+    width: 360px;
+    height: 42px;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.group-inner {
+    position: absolute;
+    top: 209px;
+    left: 121px;
+    background-color: rgba(123, 123, 123, 0);
+    border: 2px solid var(--color-black);
+    box-sizing: border-box;
+    width: 689px;
+    height: 89px;
+}
+.at-least-6 {
+    position: absolute;
+    top: 237px;
+    left: 144px;
+    font-size: var(--font-size-9xl);
+    color: var(--color-darkgray-100);
+    text-align: left;
+    display: inline-block;
+    width: 418px;
+    height: 33px;
+}
+.password-reset1 {
+    position: absolute;
+    top: calc(50% - 347.5px);
+    left: calc(50% - 459.5px);
+    font-size: 53px;
+    display: inline-block;
+    width: 922px;
+    height: 42.97px;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.rectangle-icon {
+    position: absolute;
+    top: 574px;
+    left: calc(50% - 339.89px);
+    width: 687.76px;
+    height: 89px;
+    cursor: pointer;
+}
+.reset {
+    position: absolute;
+    top: 595px;
+    left: 123px;
+    font-size: 34px;
+    display: inline-block;
+    color: var(--color-white);
+    width: 687px;
+    height: 44px;
+}
+.image-8-icon {
+    position: absolute;
+    top: 489px;
+    left: 133px;
+    width: 24px;
+    height: 24px;
+    object-fit: cover;
+}
+.remember-me {
+    position: absolute;
+    top: 489px;
+    left: 145px;
+    font-size: 20px;
+    letter-spacing: 0.03em;
+    font-weight: 600;
+    display: inline-block;
+    width: 185px;
+    height: 20px;
+}
+.vector-parent {
+    position: absolute;
+    top: calc(50% - 382.5px);
+    left: calc(50% - 462.5px);
+    width: 925px;
+    height: 765px;
+}
+.password-reset-inner {
+    position: absolute;
+    top: calc(50% - 339px);
+    left: calc(50% - 462px);
+    width: 925px;
+    height: 765px;
+}
+.clapperboard-1-icon {
+    position: absolute;
+    top: 26px;
+    left: calc(50% - 57px);
+    width: 113.49px;
+    height: 110.02px;
+    object-fit: cover;
+}
+.password-reset {
+    position: relative;
+    background-color: var(--color-white);
+    width: 100%;
+    height: 1024px;
+    overflow: hidden;
+    text-align: center;
+    font-size: var(--font-size-13xl);
+    color: var(--color-black);
+    font-family: var(--font-inter);
+}

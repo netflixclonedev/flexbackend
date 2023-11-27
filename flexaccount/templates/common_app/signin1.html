@@ -1,0 +1,65 @@
+{% load static %}
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+
+    <link rel="stylesheet" href="{% static 'signin1index.css' %}" />
+    <link rel="stylesheet" href="{% static 'signin1global.css' %}" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap"
+    />
+  </head>
+  <body>
+    <div class="sign-in-page-1">
+      <img class="sign-in-page-1-child" alt="" src="Rectangle 13.png" />
+
+      <img class="sign-in-page-1-item" alt="" src="Rectangle 13.svg" />
+
+      <div class="vector-parent">
+        <img class="group-child" alt="" src="Rectangle 23.svg" />
+
+        <div class="sign-in">Sign In</div>
+        <img class="group-item" alt="" src="Rectangle 25.svg" />
+
+        <div class="enter-username">Enter Username</div>
+        <img class="group-inner" alt="" src="Rectangle 27.svg" />
+
+        <div class="enter-password">Enter Password</div>
+        <img
+          class="rectangle-icon"
+          alt=""
+          src="Rectangle 25.svg"
+          id="rectangle4"
+        />
+
+        <b class="continue">Continue</b>
+        <div class="new-to-streamflex">New to Streamflex ?</div>
+        <img class="group-child1" alt="" src="Rectangle 25.svg" />
+
+        <div class="create-your-streamflex">Create your Streamflex account</div>
+        <div class="forget-password">Forget Password ?</div>
+        <img class="line-icon" alt="" src="Line 3.svg" />
+
+        <img class="group-child2" alt="" src="Line 4.svg" />
+      </div>
+      <div class="image-8-parent">
+        <img class="image-8-icon" alt="" src="image 8.png" />
+
+        <div class="remember-me">Remember me</div>
+      </div>
+      <img class="clapperboard-1-icon" alt="" src="clapperboard 1.png" />
+    </div>
+
+    <script>
+      var rectangle4 = document.getElementById("rectangle4");
+      if (rectangle4) {
+        rectangle4.addEventListener("click", function (e) {
+          window.location.href = "SIGNINPAGE1.html";
+        });
+      }
+    </script>
+  </body>
+</html>
